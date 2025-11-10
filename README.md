@@ -73,4 +73,4 @@ Here are some sample visualizations from the analysis:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Gk2004022/New_Netflix_Data_Analysis.git
